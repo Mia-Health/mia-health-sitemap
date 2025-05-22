@@ -399,6 +399,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/behandlere</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/behandlere" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/behandlere" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -520,6 +522,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/om-mia</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/about-mia" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/om-mia" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Ny%20nettside/App/Skjermbilder/Norsk/about-big-image-1-no.png</image:loc>
@@ -908,6 +912,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/about-mia</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/about-mia" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/om-mia" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Ny%20nettside/App/Bilder/Engelsk/about-header-image.png</image:loc>
@@ -1481,6 +1487,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/blog/det-magic-fitness-number</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/blog/det-magic-fitness-number" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/blogg/det-magiske-kondisjonstallet" />
         <video:video>
             <video:thumbnail_loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Videoer/VO2max-TrondBrenden-Vekstra.mp4/medium.jpg</video:thumbnail_loc>
@@ -1792,6 +1800,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/personvern-app</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/privacypolicy-app" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/personvern-app" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -1890,6 +1900,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/terms-of-service-portal</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/terms-of-service-portal" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/tjenestevilkar-portal" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -2167,6 +2179,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/terms-of-service-app</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/terms-of-service-app" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/tjenestevilkar-app" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -2296,6 +2310,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/privacypolicy-app</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/privacypolicy-app" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/personvern-app" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -2306,6 +2322,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/forskningen-bak-aq</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/the-research-behind-aq" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/forskningen-bak-aq" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Ny%20nettside/Bakgrunnsfarger/gradient-logo-background.png</image:loc>
@@ -2358,6 +2376,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/the-research-behind-aq</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/the-research-behind-aq" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/forskningen-bak-aq" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Ny%20nettside/App/Skjermbilder/Engelsk/about-app-image-en-2.png</image:loc>
@@ -2456,6 +2476,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/mia-for-bedrifter</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/mia-for-business" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/mia-for-bedrifter" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Ny%20nettside/Ikoner/icon-multiple-users.svg</image:loc>
@@ -2718,6 +2740,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/mia-for-business</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/mia-for-business" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/mia-for-bedrifter" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Ny%20nettside/Ikoner/icon-face-content.svg</image:loc>
@@ -2847,6 +2871,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/personvern-portal</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/privacypolicy-portal" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/personvern-portal" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -3340,6 +3366,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/blog</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/blog" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/blogg" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Infografikker/Norsk/AQ_03.png</image:loc>
@@ -3699,6 +3727,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/behandlere</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/behandlere" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/behandlere" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Prising%20B2T.png</image:loc>
@@ -3912,6 +3942,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Logoer%20og%20ikoner/Apple%20watch.png</image:loc>
@@ -4378,6 +4410,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/privacypolicy-portal</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/privacypolicy-portal" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/personvern-portal" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -4573,6 +4607,8 @@
     </url>
     <url>
         <loc>https://miahealth.no</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Ny%20nettside/App/Bilder/Norsk/download-app-background-image-no.jpg</image:loc>
@@ -4923,6 +4959,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/hva-er-aq</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/what-is-aq" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/hva-er-aq" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Ny%20nettside/Infografikker/Norsk/aq-big-image-5-no.png</image:loc>
@@ -4969,6 +5007,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/en/what-is-aq</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/what-is-aq" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/hva-er-aq" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -5631,6 +5671,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/blogg/det-magiske-kondisjonstallet</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/blog/det-magic-fitness-number" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/blogg/det-magiske-kondisjonstallet" />
         <video:video>
             <video:thumbnail_loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Videoer/VO2max-TrondBrenden-Vekstra.mp4/medium.jpg</video:thumbnail_loc>
@@ -6323,6 +6365,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/blogg</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/blog" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/blogg" />
         <image:image>
             <image:loc>
                 https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/Fotografier/Aktivitetsbilder/Mia-Dame-Tredem%C3%B8lle-3.jpeg</image:loc>
@@ -6815,6 +6859,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/tjenestevilkar-app</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/terms-of-service-app" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/tjenestevilkar-app" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -7106,6 +7152,8 @@
     </url>
     <url>
         <loc>https://miahealth.no/tjenestevilkar-portal</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/terms-of-service-portal" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/tjenestevilkar-portal" />
         <image:image>
             <image:loc>https://27093551.fs1.hubspotusercontent-eu1.net/hubfs/27093551/mia-logo-1.svg</image:loc>
             <image:caption>mialogo1</image:caption>
@@ -7113,6 +7161,20 @@
         </image:image>
         <lastmod>2025-04-10</lastmod>
         <priority>0.2</priority>
+    </url>
+    <url>
+        <loc>https://miahealth.no/en/support</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/support" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/support" />
+        <lastmod>2025-04-10</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://miahealth.no/support</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://miahealth.no/en/support" />
+        <xhtml:link rel="alternate" hreflang="no" href="https://miahealth.no/support" />
+        <lastmod>2025-04-10</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://miahealth.no/support/hvordan-redigere-helseprofilen-din</loc>
